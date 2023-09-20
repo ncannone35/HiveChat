@@ -172,15 +172,5 @@ def main():
     for connection in establishedConnections:
         connection[2].join()
 
-
-
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
     main()
